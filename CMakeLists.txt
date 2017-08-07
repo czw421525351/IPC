@@ -32,3 +32,6 @@ add_executable(19sigprocmask 19sigprocmask.cpp)
 
 add_executable(20sigaction 20sigaction.cpp)
 add_executable(20sigaction2 20sigaction2.cpp)
+
+add_executable(21sigaction_recv 21sigaction_recv.cpp)
+add_executable(21sigaction_send 21sigaction_send.cpp)
