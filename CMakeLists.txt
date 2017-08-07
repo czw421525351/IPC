@@ -13,3 +13,6 @@ add_executable(26msg_recv 26msg_recv.cpp)
 
 add_executable(27msg_echosrv 27msg_echosrv.cpp)
 add_executable(27msg_echocli 27msg_echocli.cpp)
+
+add_executable(28mmap_write 28mmap_write.cpp)
+add_executable(28mmap_read 28mmap_read.cpp)
