@@ -16,3 +16,6 @@ add_executable(27msg_echocli 27msg_echocli.cpp)
 
 add_executable(28mmap_write 28mmap_write.cpp)
 add_executable(28mmap_read 28mmap_read.cpp)
+
+add_executable(29shm_write 29shm_write.cpp)
+add_executable(29shm_read 29shm_read.cpp)

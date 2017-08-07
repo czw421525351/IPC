@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/29shm_write.dir/29shm_write.cpp.o  -o 29shm_write.exe -Wl,--out-implib,lib29shm_write.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

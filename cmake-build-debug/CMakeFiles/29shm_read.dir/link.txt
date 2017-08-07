@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/29shm_read.dir/29shm_read.cpp.o  -o 29shm_read.exe -Wl,--out-implib,lib29shm_read.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
