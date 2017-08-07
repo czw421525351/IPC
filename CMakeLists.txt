@@ -38,3 +38,12 @@ add_executable(21sigaction_send 21sigaction_send.cpp)
 
 add_executable(21sigaction_recv2 21sigaction_recv2.cpp)
 add_executable(21sigaction_send2 21sigaction_send2.cpp)
+
+
+add_executable(23pipe 23pipe.cpp)
+
+add_executable(23pipe2 23pipe2.cpp)
+add_executable(23pip3 23pip3.cpp)
+
+add_executable(24pipe 24pipe.cpp)
+add_executable(24pipe2 24pipe2.cpp)
