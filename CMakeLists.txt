@@ -27,3 +27,4 @@ add_executable(32sem_philosopher 32sem_philosopher.cpp)
 
 add_executable(16signal 16signal.cpp)
 add_executable(17signal 17signal.cpp)
+add_executable(18alarm 18alarm.cpp)
