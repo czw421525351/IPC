@@ -29,3 +29,6 @@ add_executable(16signal 16signal.cpp)
 add_executable(17signal 17signal.cpp)
 add_executable(18alarm 18alarm.cpp)
 add_executable(19sigprocmask 19sigprocmask.cpp)
+
+add_executable(20sigaction 20sigaction.cpp)
+add_executable(20sigaction2 20sigaction2.cpp)

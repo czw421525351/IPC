@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/20sigaction2.dir/20sigaction2.cpp.o  -o 20sigaction2.exe -Wl,--out-implib,lib20sigaction2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
