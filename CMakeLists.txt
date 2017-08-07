@@ -47,3 +47,8 @@ add_executable(23pip3 23pip3.cpp)
 
 add_executable(24pipe 24pipe.cpp)
 add_executable(24pipe2 24pipe2.cpp)
+
+add_executable(23exec 23exec.cpp)
+
+add_executable(25FIFO_R 25FIFO_R.cpp)
+add_executable(25FIFO_W 25FIFO_W.cpp)
