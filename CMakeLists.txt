@@ -19,3 +19,8 @@ add_executable(28mmap_read 28mmap_read.cpp)
 
 add_executable(29shm_write 29shm_write.cpp)
 add_executable(29shm_read 29shm_read.cpp)
+
+add_executable(30sem 30sem.cpp)
+add_executable(30semtool 30semtool.cpp)
+
+add_executable(32sem_philosopher 32sem_philosopher.cpp)
