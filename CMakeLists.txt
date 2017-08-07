@@ -35,3 +35,6 @@ add_executable(20sigaction2 20sigaction2.cpp)
 
 add_executable(21sigaction_recv 21sigaction_recv.cpp)
 add_executable(21sigaction_send 21sigaction_send.cpp)
+
+add_executable(21sigaction_recv2 21sigaction_recv2.cpp)
+add_executable(21sigaction_send2 21sigaction_send2.cpp)
